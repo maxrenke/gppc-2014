@@ -1,0 +1,1 @@
+The grid-based path planning competition is a yearly competition comparing path planners. The repository contains the 2014 entries.
